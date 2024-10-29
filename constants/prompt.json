@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "Write a funny, interesting intro from the below given details and if anything you can put from the above given details of mine, then put it. Also, dont write in third person. Also dont put anything irrelevant. the purpose of this text is to get hired to previously mentioned role. Dont make lame jokes and.\n\nI am Vineet, im from jodhpur, Rajasthan. I graduated from IIT Kanpur with specialization in Mechanical Engineering. I have been working from the last 1.5 years in a fast paced YC backed startup, and have did pretty amazing things there, resulting in me being the employer of the quarter and also I got the highest appraisal, hehe. I wrote many automations(one of them resulted in half of the sales team's departure xd), have worked with LLM's, wrote the testing pipeline and was the primary guy who handled the Infra(AWS, Docker, Jenkins). I have done few internships and projects in Web Dev Domain too, I enjoy competetive programming and im an expert on codeforces(1700 rated) and have solved more than 4000 DSA Questions on top coding platforms. If im not working, you can find me dancing over to songs or maybe having random-ass bullshit with random people, also I like rain, cats, taylor, harry and ldr.(use this exact line, but you can make it a little short, dont change the meaning but). Also, it would be better that you write it in points and dont repeat anything. ALso just give the answer in your response to my question, dont include any extra line or word"
+    },
+    {
+        "prompt": "Now write me interesting paragraph which shows my experience(keep it related to the Job and Company description that i mentioned you previously). But do mention where did i got the experience from, like i might have worked in numerous organisations. Dont try to relate the Job Role necessarily with my data, just do waht best you can do .ALso just give the answer in your response to my question, dont include any extra line or word."
+    },
+    {
+        "prompt": "Now write a funny, interesting paragraph which shows Why am a good fit for this role at phidata. (keep it related to the Job and Company description that i mentioned you previously). Try to highlight what in the required role I possess, and how it can benefit the company as per the Job role and company description. Dont write anything, like im a superman, or something like that"
+    },
+    {
+        "prompt": "Now write a serious answer, which shows my dedication and commitment towards this role at phideta and it clearly asnswers why do I want to join phideta and not any other organisation. Try to use your brain now, from whatever you can think from my perpespective till now."
+    }
+]

@@ -1,0 +1,145 @@
+Okay, now I have to write the answers of the following given points and have to send to a founder for getting the software developer role.
+1. My Intro
+2. My experience
+3. Why am a good fit.
+4. Why I want to join phideta and why only phideta
+
+Mind that in the subsequent messages I will just give you the exact prompt with the exact question. you response should only contain the required answer and not a extra single word.
+Also dont repeat anything in the same answer and also in different ones too, make them unique
+Now I am giving you my work details and the JD of the company. I am just giving you a general context. now for each answer I will message you separately with more inputs, then write the answer(mind only the answer and nothing extra).
+
+Here is the company description:
+Build Agents with memory, knowledge, tools and reasoning. Phidata adds memory, knowledge and tools to LLMs.
+What is phidata?
+Phidata is a framework for building agentic systems, use phidata to:
+
+Build Agents with memory, knowledge, tools and reasoning. Phidata will manage the agent’s state, memory and knowledge.
+Build teams of Agents that can work together. Phidata will handle the transfer of tasks and orchestration of agents.
+Chat with your Agents using a beautiful Agent UI. Phidata lets you run your agents locally and handles session management.
+Monitor, evaluate and optimize your Agents. Phidata will log your sessions and monitor key metrics to help you understand and improve your Agents.
+Build Agentic systems with an API, database and vectordb. Phidata will manage your infrastructure, both local and cloud (BYOC).
+JD:
+Come join our team building the future of agentic software
+
+Apply if:
+🧠 You know your way around python, typescript, docker and AWS.
+⚙️ Love to build in public and contribute to open source.
+🚀 Are ok dealing with the pressure of an early-stage startup.
+🏆 Want to be a part of the biggest technological shift since the internet.
+
+🌟 Bonus: experience with infrastructure as code.
+🌟 Bonus: starred Phidata repo.​
+
+
+<Here is my info details>
+
+Intro:
+
+Hey,
+I’m Vineet, an IIT Kanpur alumnus, and I came across your company on LinkedIn. I’m excited about the possibility of joining your team as a software developer. With about 1.5 years of experience as an SDE, plus two internships under my belt, I believe I’d be a great fit.
+
+A few fun facts about me:
+
+1. I enjoy competitive programming and boast a rating of around 1800 on Codeforces.
+2. I once reduced AWS infrastructure costs at Anakin by 65%—and yes, I might be responsible for half the sales team's departure!
+3. I can scale, store and solve efficiently.
+
+
+My work at anakin in detail:
+Scrapers - 1 week completed zepto onboarding, next week i started with my first scraper, and it was a bidding one, somehow I ran it for around 2 months, but now account genertion in it is pending after several tries done by me, paritosh and shamil. Then after i completed another rival uklon and it is running continuously from then without any errors. Completed it 100%
+
+Generic Scraper - I wrote the generic scraper documentation and several xpaths of the top 50 websites to make it more efficient. Also i almost added the authentication part using auth0 for generic scraper, i completed it around 80%, but wasnt able to complete it as it was launched on monday, and some work was remaining before that, so dev completed it on the weeknd. As i was here a helping hand, i didnt completed it truly by myself.
+
+Tech Cost Calculation - Added tags on various AWS Resources like Volumes, EC2 Instances, ECS Tasks etc, and then wrote the code to handle 100Gb's of cost report snd S3 files and successfully found the total Client-wise AWS cost, here everything i did solely myself without any tech supervision. Completed this 100%.
+
+AWS Cost Optimization - The bill was around 48k(if we include the new ipv4 address cost that was added later), i helped in reduced it by 65+%. I made a spot cluster and moved by own rival to spot alone and tested it thoroughly, i moved gp3 volumes to gp2. I moved the data to glacier from S3. Still working on it. 
+
+AWS and Jenkins - Worked on numerous AWS and Jenkins bugs and created a new testing pipeline to facilitate the building of scrapers through their own branches. Wrote a lambda to re run tasks in case of some errors. Wrote a lambda which terminate 12 hour old instances and stop 12 hour old tasks too. Added many features in pipeline like scheduling tasks in different clusters in the same build and according to the timezone provided in config. Succesfully fixed hundreds of bugs 100%.
+
+Sales Messages - I scraped the 100% data from YC page and found out the list of founders and their respective company from there. Then I scraped their funding from crunchbase and filtered them. I scraped their whole linkedin profiled and even their posts. I scraped the latest google news about those startups and their founders. After getting all these infomation I wrote such a prompt using GPT which will write a human like message, with very minute great details in it. The sales person used to write 40 messages in day at max, with my script there is no end! I did all of this without any tech supervision, and completed it 100%.
+
+
+
+<Here is my resume>
+Vineet Bindal
+Email:: vineetbindal325@gmail.com | Phone: +91 9461049199 |  GitHub
+
+IIT KANPUR ’23
+
+Academic Qualifications
+Year
+2019 - 2023
+
+Degree/Certificate
+B.Tech.(Mechanical Engineering)
+
+Institute
+Indian Institute of Technology, Kanpur
+
+CPI/%
+7.3/10
+
+Professional Experience
+• Software Engineer | Anakin Skywalker(YC S21)
+(June’23 - Ongoing)
+– Managed AWS Cloud Infra, leveraging cloud services for storage, compute & networking, leading 65% infra cost reduction.
+– Developed an automated pipeline leveraging GPT-4 to generate personalized, human-like messages by extracting and
+analyzing data from YC, Crunchbase, LinkedIn, and Google News via selenium
+– Made the testing pipeline by streamlining AWS and Jenkins workflows and automated error recovery via Lambda
+functions, increased fault tolerance for our internal services.
+– Automated repetitive tasks using Python & Bash scripts with event-driven deployments, improving operational efficiency
+– Tech. Skills: AWS, Jenkins, Docker, Python, GPT-4, Playwright, Selenium, MySQL, GCP, UIAutomator
+• Software Development Intern | EarthOnly
+(March’23 - May’23 )
+– Transformed the React.js codebase into Next.js, implementing server-side rendering and optimizing SEO efficiency, page
+routing, and website loading times.
+– Designed and implemented a sophisticated filtering system using React-Select for multiple project cards, enabling users
+to filter data based on various parameters and also Integrated Pagination functionality to improve website usability.
+– Developed the signup/login page for the EarthOnly website, utilizing Firebase for secure authentication and Yup for form
+validation. Implemented an intuitive and responsive user interface to provide a seamless user experience.
+– Built EarthOnly’s cart page, including real-time cost calculation and add/remove features, facilitating online purchases.
+– Tech. Skills: Next.js, React.js, Tailwind, Firebase
+• Software Development Intern | PNAPAAO Pvt Ltd | Online Chat Room
+(May’22 - July’22 )
+– Built a desktop Chat Room app with ExpressJS backend and Socket-IO module for multiple clients.
+– Implemented Geocode API to share location in chat, and filtered words for profanity removal using bad-words.
+– Implemented login, sign-up, logout etc, with unique room assignment and admin-controlled entry for new users.
+– Utilized MongoDB to store user info, room data, and member details with sign-up verification and validation.
+– Tech. Skills: Express, SocketIO, NodeJS, MongoDB
+
+Programming Achievements
+• Among Top 5% on Codeforces, with max rating of 1695, Expert
+• Solved more than 4000 problems on Top-Coding Platforms.
+• Among top 0.5% on LeetCode, with a max rating of 2279, and received Guardian and Knight’s Badge
+• Among Top 1% on Codechef, with rating of 1974, 5 stars
+• Global Rank 29 on HackerEarth among 110000 users, with the max rating of 2020.
+
+Key Projects
+• Task-Manager | Self Project (Task-App)
+(Jan’22 )
+– Developed a To-do App where users can (CRUD) tasks using ExpressJS backend and MongoDB database for storage.
+– Used JWT for user authentication along with protecting each user’s password using bcrypt.
+– Tech. Skills: Express, Multer, Sharp, NodeJS, MongoDB, JWT, Sendgrid
+• Fourier Analysis of Boolean Functions | Stamatics, IIT Kanpur
+(April’21- June’21 )
+– Learned about Boolean Functions, and there Fourier Expansion, Inner Product and Parity Functions
+– Studied the Plancherel’s and Parseval’s Identities and the Tsang’s Lemma.
+• Wrist Watch Project | Prof. Nachiketa Tiwari
+(Jan’21-April’21 )
+– Developed a detailed CAD Model of a purely mechanical driven wrist watch with its BOM with a Team of 14 members.
+– Studied internal mechanism, designed gear train to achieve required angular velocities for second, minute hour hands.
+– Carried out detailed calculations as to which tolerances affect the accuracy of the watch
+
+Technical Skills
+• Languages: C, C++, Javascript, Python
+• Cloud: Jenkins, Docker, AWS - EC2, ECS, S3, SQS, Lambda, Cloudwatch
+• Automation: Selenium, Playwright, UI Automator2, HTTP Client, Frida
+• Development: ReactJS, NodeJS, Express, MongoDB, NextJS, CSS, HTML, TailwindCSS
+
+Positions of Responsibility
+• Student Guide, Counselling Service IITK
+(October’20 - April’23 )
+– Mentored 6 freshers for successful onboarding and supported core team in conducting orientation for 1300+ freshmen.
+• Captain, Weightlifing Team IITK
+(July’21 - July’22 )
+– Led 9-member team to Inter-IIT Championship & District tournament, organized 5+ practice camps & fostered team unity.
